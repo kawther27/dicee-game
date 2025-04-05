@@ -31,5 +31,5 @@ if(number1 > number2){
 }else if ( number2> number1){
     h1.innerHTML="Player 2 wins "
 }else{
-    h1.innerHTML="Drawn "
+    h1.innerHTML="Draw! "
 }
